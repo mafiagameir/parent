@@ -52,16 +52,6 @@
             </dependency>
             <dependency>
                 <groupId>co.mafiagame</groupId>
-                <artifactId>common</artifactId>
-                <version>1.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>co.mafiagame</groupId>
-                <artifactId>persistance</artifactId>
-                <version>1.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>co.mafiagame</groupId>
                 <artifactId>telegram-interface-message</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
